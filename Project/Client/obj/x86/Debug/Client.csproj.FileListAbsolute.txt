@@ -1,0 +1,7 @@
+E:\Tài liệu học\Lập trình an toàn\Project\Client\bin\Debug\Client.exe
+E:\Tài liệu học\Lập trình an toàn\Project\Client\bin\Debug\Client.pdb
+E:\Tài liệu học\Lập trình an toàn\Project\Client\obj\x86\Debug\Client.Form1.resources
+E:\Tài liệu học\Lập trình an toàn\Project\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Tài liệu học\Lập trình an toàn\Project\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\Tài liệu học\Lập trình an toàn\Project\Client\obj\x86\Debug\Client.exe
+E:\Tài liệu học\Lập trình an toàn\Project\Client\obj\x86\Debug\Client.pdb

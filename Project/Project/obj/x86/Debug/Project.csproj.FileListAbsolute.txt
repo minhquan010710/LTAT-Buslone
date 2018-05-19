@@ -1,0 +1,8 @@
+E:\Tài liệu học\Lập trình an toàn\Project\Project\bin\Debug\Project.exe
+E:\Tài liệu học\Lập trình an toàn\Project\Project\bin\Debug\Project.pdb
+E:\Tài liệu học\Lập trình an toàn\Project\Project\obj\x86\Debug\Project.Form1.resources
+E:\Tài liệu học\Lập trình an toàn\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+E:\Tài liệu học\Lập trình an toàn\Project\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+E:\Tài liệu học\Lập trình an toàn\Project\Project\obj\x86\Debug\Project.exe
+E:\Tài liệu học\Lập trình an toàn\Project\Project\obj\x86\Debug\Project.pdb
+E:\Tài liệu học\Lập trình an toàn\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
